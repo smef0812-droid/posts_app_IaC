@@ -1,0 +1,9 @@
+# terraform構成
+# -provider.tf:provider定義
+# -vpc.tf:ネットワーク関係
+# -security_groups.tf:SG
+# -alb.tf:ALB関係
+# -ec2_instance.tf：EC2/ASG
+# -rds.tf:RDS
+# -variables.tf:変数定義
+# -outputs.tf:出力
